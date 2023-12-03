@@ -1,3 +1,5 @@
+//Made with generative AI
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

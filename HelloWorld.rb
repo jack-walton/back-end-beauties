@@ -1,6 +1,6 @@
-puts "Hello, World!"
-
-numbers = [1, 2, 3, 4, 5]
-numbers.each do |num|
-    puts num * 2
-end
+puts "Hello, YOU!"
+puts ""
+puts "What's YOUR name?"
+name = gets.chomp
+puts ""
+puts "Ah, I see. So your name is #{name}. I guess that's an okay name."
